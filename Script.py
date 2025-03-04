@@ -271,7 +271,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/assimi7ator">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/assi,i7ator>[assimi7ator]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/assimi7ator">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/assimi7ator>[assimi7ator]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
