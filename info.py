@@ -179,8 +179,6 @@ if HAS_SSL:
     URL = "https://{}/".format(FQDN)
 else:
     URL = "http://{}/".format(FQDN)
-else:
-    URL = environ.get("URL", "https://quintessential-mady-c0d32-7af9ddca.koyeb.app/")
 
 # ============================
 # Reactions Configuration
