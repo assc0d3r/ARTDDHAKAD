@@ -14,7 +14,7 @@ from .Imdbposter import get_movie_details, fetch_image
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 logger = logging.getLogger(__name__)
-logger.setLevel(logging.ERROR)
+logger.setLevel(logging.INFO)
 #---------------------------------------------------------
 # Some basic variables needed
 tempDict = {'indexDB': DATABASE_URI}
