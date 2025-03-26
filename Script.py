@@ -279,16 +279,6 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 📆 Year: <a href={url}/releaseinfo>{year}</a>
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
 📀 RunTime: {runtime} Minutes
-📝 Plot: {plot}
-👥 Cast: {actors}
-👨‍Directors: {directors}
-✍️ Writers: {writers}
-🏆 Awards:{awards}
-🖼️ Poster:{poster_url}
-🔗 IMDb Link:{imdb_url}
-📆 Release Date: {release_date}
-🌍 Country: {country}
-🗣️ Language: {language}
 
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 Requested by : {message.from_user.mention}</b>"""
